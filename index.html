@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Musicas</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/4.6.0/remixicon.min.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <main id="main">
+
+        <div class="conteiner-musica">
+
+            <div class="capa"></div>
+
+            <div class="conteiner_tittle">
+                <div class="text_msc">
+                    <h1>Nome</h1>
+                    <h2>Cantor</h2>
+                </div>
+            </div>
+
+            <audio id="main-audio" src="imgs/amor-dos-deuses.mp4"></audio>
+
+            <div class="progress-player">
+                <div class="progress" id="progress"></div>
+                <div class="music-duraction">
+                    <span id="current-time">0:00</span>
+                    <span id="duration">0:00</span>
+                </div>
+            </div>
+
+            <div class="conteiner_controls">
+                <div class="controls">
+                    <i class="ri-skip-back-line" id="prev-btn"></i>
+                    <i class="ri-play-circle-fill" id="play-btn"></i>
+                    <i class="ri-skip-forward-line" id="next-btn"></i>
+                </div>
+            </div>
+
+        </div>
+
+    </main>
+</body>
+</html>
