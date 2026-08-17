@@ -97,14 +97,7 @@ const musicas = [
         cor: "#D9A84E",
     },
 
-    {
-        nome: "The other woman",
-        cantor: "Lana Del Rey",
-        audio: "audio/theOtherWoman.mp4",
-        capa: "img/theOtherWoman.jpeg",
-        cor: "#89888C",
-    },
-
+    
     {
         nome: "Aquarela",
         cantor: "Toquinho",
@@ -112,7 +105,7 @@ const musicas = [
         capa: "img/aquarela.jpeg",
         cor: "#F2BD1D",
     },
-
+    
     {
         nome: "R U Mine",
         cantor: "Artics Monkeys",
@@ -120,7 +113,7 @@ const musicas = [
         capa: "img/rUMine.jpeg",
         cor: "#060C0D",
     },
-
+    
     {
         nome: "Salmo 126",
         cantor: "Ministério Zoe",
@@ -128,7 +121,7 @@ const musicas = [
         capa: "img/salmo126.jpeg",
         cor: "#0B5959",
     },
-
+    
     {
         nome: "Muse",
         cantor: "Sofia Isella",
@@ -136,7 +129,7 @@ const musicas = [
         capa: "img/muse.jpeg",
         cor: "#261F18",
     },
-
+    
     {
         nome: "Oceano",
         cantor: "Djavan",
@@ -144,7 +137,7 @@ const musicas = [
         capa: "img/oceano.jpeg",
         cor: "#586A8C",
     },
-
+    
     {
         nome: "Anjo Azul",
         cantor: "Jorge Ben Jor",
@@ -152,7 +145,7 @@ const musicas = [
         capa: "img/anjoAzul.jpeg",
         cor: "#D1B36B",
     },
-
+    
     {
         nome: "Jealousy, Jealousy",
         cantor: "Olivia Rodrigo",
@@ -168,7 +161,7 @@ const musicas = [
         capa: "img/caminhoneiros.jpeg",
         cor: "#53518C",
     },
-
+    
     {
         nome: "Awake and alive",
         cantor: "Skillet",
@@ -176,7 +169,7 @@ const musicas = [
         capa: "img/awakeAndAlive.jpeg",
         cor: "#F2F2F2",
     },
-
+    
     {
         nome: "Bulletproof Love",
         cantor: "Pierce the Veil",
@@ -184,7 +177,7 @@ const musicas = [
         capa: "img/bulletproofLove.jpeg",
         cor: "#1C3732",
     },
-
+    
     {
         nome: "Anjos",
         cantor: "O Rappa",
@@ -192,7 +185,7 @@ const musicas = [
         capa: "img/anjos-orappa.jpeg",
         cor: "#8C241B",
     },
-
+    
     {
         nome: "Trem bala",
         cantor: "Ana Vilela e Luan Santana",
@@ -200,7 +193,14 @@ const musicas = [
         capa: "img/tremBala.jpeg",
         cor: "#D9C2BA",
     },
-
+    {
+        nome: "The other woman",
+        cantor: "Lana Del Rey",
+        audio: "audio/theOtherWoman.mp4",
+        capa: "img/theOtherWoman.jpeg",
+        cor: "#89888C",
+    },
+    
     {
         nome: "Pai eu não confio em mim",
         cantor: "Thalles Roberto",
